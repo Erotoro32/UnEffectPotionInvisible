@@ -1,0 +1,5 @@
+name: UnPotionEffectInvisible
+version: '1.0'
+main: org.example.unPotionEffectInvisible
+api-version: '1.21'
+authors: [ Erotoro ]
